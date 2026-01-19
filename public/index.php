@@ -1,5 +1,4 @@
 <?php
-echo "Hello World";
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 
